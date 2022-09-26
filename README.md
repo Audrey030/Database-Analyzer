@@ -1,5 +1,5 @@
-# Database-Manager
-Database Manager for ECOR1042 Carleton University 2021
+# Database-Analyzer
+Database Analyzer for ECOR1042 Carleton University 2021
 #### ECOR 1042 Fall 2021 _T008_data_analyzer_ Version 1.0 12/06/2021
 Copyright &copy; 2021 Nam Duong, Audrey Lun, Hamzah Shaikh and Sangsongthong Chantaranothai, Carleton University, Faculty of Engineering and Design. All rights reserved.
 
